@@ -1,0 +1,11 @@
+{
+	"name": "grid-coin",
+	"author": {
+		"name": "Rasheed Rahman",
+		"email": "radiumrasheed@gmail.com",
+		"url": "https://radiumrasheed.tech"
+	},
+	"version": "1.0.0",
+	"dependencies": {
+	}
+}
