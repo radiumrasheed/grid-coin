@@ -1,7 +1,7 @@
-const block = require('block');
-const blockchain = require('blockchain');
+const Block = require('./block');
+const Blockchain = require('./blockchain');
 
 module.exports = {
-	block,
-	blockchain
+	Block,
+	Blockchain
 };

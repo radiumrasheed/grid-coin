@@ -1,4 +1,4 @@
-const Block = require('block');
+const Block = require('./block');
 
 class Blockchain {
 	constructor() {
@@ -61,3 +61,5 @@ class Blockchain {
 		return true;
 	}
 }
+
+module.exports = Blockchain;
